@@ -9,7 +9,8 @@ This program uses third-party auth with Google. Some of the technologies used to
 ## Configuration:
 - To access through ssh, use : ``` ssh grader@159.89.3.54 -i ~/.ssh/grader -p 2200```
 -  URL to my hosted web application: ```http://mycomdot.ml```
--  grader private key:``` b3BlbnNzaC1rZXktdjEAAAAABG5vbmUAAAAEbm9uZQAAAAAAAAABAAABFwAAAAdzc2gtcn
+-  grader private key:``` -----BEGIN OPENSSH PRIVATE KEY-----
+b3BlbnNzaC1rZXktdjEAAAAABG5vbmUAAAAEbm9uZQAAAAAAAAABAAABFwAAAAdzc2gtcn
 NhAAAAAwEAAQAAAQEAstODSBwivcV6lFcbyul7/kIVcVXsgzs/fOc9J3OFpscCTinwYhQr
 KG5beSzWwjOH1nHAaZ4bzjJpPccz1xZlhbdngsr6pio1xC3snLPxwQEdjfetF1IVScZWst
 HemQUyugC8rCJnFdk8ncEDNLxjJ6H9oWpdsy00MbmVgvElOaBeo6+14O3Ey/dZI3dgqGQq
@@ -33,8 +34,10 @@ gRdp6APJMvnwAAAIEA4YYafekco7L87pDT2zv17ej54Q8u8mSTsGwZ+t24G0D3Ov9wrQWl
 7Osy5WkBuudPoGV3+dSaM/+geimrySG1CHShLVSueKoWy0X1sAAACBAMr97RGC6jjdVLY1
 VicrnKX4cVfKQ4DRdwNuUCR/A7w9YHouM9Pa99MV+4j4vd36SuMVFsaTjPUPmPrlNd04ER
 gAZdukAqEZvK3hplN/TYO8YKKB57O5xymtc/Lbwii1eUHM6RY/WfGvpxfVvmjjJs1XtUI+
-q4mIi/rF9ZxN0QzLAAAAIW1obWRhbHNrckBtaG1kcy1NYWNCb29rLVByby5sb2NhbAE=```
-- 
+q4mIi/rF9ZxN0QzLAAAAIW1obWRhbHNrckBtaG1kcy1NYWNCb29rLVByby5sb2NhbAE=
+-----END OPENSSH PRIVATE KEY-----```
+
+- sudo password : ```rootroot ``` 
 
 ## PreRequisites:
 my project created by python3 in the backend and HTML (Bootsrap) the frontend and SQLite is my database
