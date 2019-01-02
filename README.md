@@ -61,3 +61,8 @@ my project created by python3 in the backend and HTML (Bootsrap) the frontend an
 
 
 
+### Helpful  Resource 
+- [FLASK HELLO WORLD APP WITH APACHE WSGI] (https://www.bogotobogo.com/python/Flask/Python_Flask_HelloWorld_App_with_Apache_WSGI_Ubuntu14.php)
+- [Start / Stop / Restart Apache Web Server Via SSH](https://www.cyberciti.biz/faq/restart-apache-via-ssh/)
+- [SQLAlchemy ORM Tutorial for Python Developers](https://auth0.com/blog/sqlalchemy-orm-tutorial-for-python-developers/)
+- [Python](https://www.python.org/)
